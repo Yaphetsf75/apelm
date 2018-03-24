@@ -7,7 +7,7 @@ import Html exposing (text)
 
 
 name =
-    "Maou-chan"
+    "Alireza-Alian"
 
 
 main =
